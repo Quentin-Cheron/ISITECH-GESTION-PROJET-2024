@@ -1,4 +1,8 @@
-# Démarer un projet informatique
+SASS = Software As A Service
+
+Gestion de projet informatique
+
+# 1.1 Démarer un projet informatique
 
 ## Identifier les enjeux
 
@@ -27,3 +31,45 @@ trouver les limites du projet :
 - Les ressources
 
 - Les compétences
+
+# Élaborer son projet
+
+## Dimensionner le projet
+
+- Identifier les ressources nécessaires
+
+## Constiter une équipe
+
+- Identifier les compétences nécessaires
+
+- Identifier les rôles
+
+- Identifier les tâches
+
+## Déclencher le projet
+
+- Identifier les risques
+
+- Identifier les opportunités
+
+- Identifier les contraintes
+
+# Maximiser la valeur du projet
+
+- Identifier les besoins des utilisateurs
+
+- Identifier les besoins de l'entreprise
+
+# Fiabiliser l'emploi des ressources et le planning
+
+- Identifier les ressources
+
+- Identifier des salaries compétents
+
+# Développer son équipe
+
+- Trouver des collaborateurs compétents et motivés
+
+- Identifier les compétences nécessaires
+
+- Identifier les rôles
