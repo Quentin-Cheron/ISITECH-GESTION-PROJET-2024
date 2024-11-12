@@ -73,3 +73,25 @@ trouver les limites du projet :
 - Identifier les compétences nécessaires
 
 - Identifier les rôles
+
+# Les aspects financiers et juridiques
+
+- Identifier les coûts
+
+- La négociation des contrats
+
+## Les aspects financiers
+
+## Les budgets
+
+## Le compte de résultat
+
+## Le business care
+
+## Le suivi financier des projets
+
+## La réglementation concernant la protection des données personnelles ( data privacy )
+
+## Le cadre contractuel du projet
+
+## Étude financière du site de vente en ligne
