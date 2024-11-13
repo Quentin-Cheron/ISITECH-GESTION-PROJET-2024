@@ -258,3 +258,150 @@ Break Even
 - Protection des transferts
 - Sécurisation du développement
 - Gestion du Cloud
+
+# Chapitre 3 La prise en compte des risques
+
+## Les Trois dimesions clés
+
+1. Axe du temps (cycle de vie)
+2. Axe d'analyse (niveau d'abstraction)
+3. Axe de pilotage (cycle de décision)
+
+## Axe du temps (développement)
+
+- Expression de besoins
+- Phases de développement
+- Livraison
+- Maintenance
+- Sans cet axe
+  - Non-conformité aux besoins
+  - Dérive du projet
+  - Tests insuffisants
+
+## Axe d'analyse (Abstraction)
+
+- Du conceptuel au concret
+- Nveau d'abstraction variable selon les phases
+- Compatble avec UML et Merise
+- Sans cet axe :
+    - Code non ptimal
+    - Fonction majeures oubliées
+    - Difficultés d'évolution
+
+## Axe de pilotage (Décision)
+
+- Point de contrôle	
+- Gestion des aléas
+- Prises de décision
+- Sans cet axe :
+  - Objectifs non tenus
+  - Équipe Désorganisée
+  - Rejet de l'application
+
+# Chapitre 3.2 Le modèle de développement
+
+## Le modèle cascade
+
+### Structure 
+
+- Progression linéaire
+- Chaque étape suit la précédente
+- Pas de retour en arrière facile
+
+### Étape clés
+
+1. Idée - démarrage
+2. Expression des besoins
+3. Spécifications
+4. Développement
+5. Tests uniaires
+6. Tests d'intégration
+7. Tests fonctionnels
+8. Installation
+
+## Le Modèle en V
+
+### Caractéristiques
+
+- Évolution du modèle cascade
+- Anticipation des tests
+- Symétrie entre conception et validation
+
+### Avantages
+
+- Tests sous-traités et objectifs
+- Vérification précoce de la couverture fonctionnelle
+- Limitation des erreurs de conception
+
+### Inconvénient
+
+- Durée augmentée de 30-40%
+
+## Le modèle itératif
+
+### Principes
+
+- Succession de mini-cascades
+- Focus sur les riques techniques
+- Évolution constante des périmètres
+
+## Chapitre 3.4 Le modèle de pilotage
+
+### Le comité de Pilotage
+
+#### Composition
+
+- Chef de projet 
+- Représentants du comité de direction
+- Partenaires 
+- Clients
+
+### Les souces d'imformation
+
+#### 1. Canaux Formels
+
+- États d'anomalies (bug tracking)
+- États de charge des équipes
+- Remontées utilisateurs
+- Plannings
+
+#### 2. Canaux Informels
+
+- Réunions de suivi
+- Échanges d'expériences
+- Clubs utilisateurs
+
+### Les indicateurs Clés (KPI)
+
+#### 1. Planning
+
+- Écarts prévisionnel/réalisé
+- Chemin critique
+- Niveau de charge d'équipe
+
+#### 2. Qualité
+
+- Nombre d'anomalies
+- Temps de traitement
+- Balance âgée
+
+#### 3. Roadmap
+
+- Périmètre fonctionnel
+- Respect architectures
+- Jalon clés
+
+#### 4. Finances
+
+- Business case
+- Budgets
+- Investissements
+
+#### 5. Équipe
+
+- Niveau sous-traitance
+- Motivation
+- Qualification
+- Ascquisition savoir-faire
+
+
