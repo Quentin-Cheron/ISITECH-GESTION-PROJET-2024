@@ -1,3 +1,5 @@
+
+
 SASS = Software As A Service
 
 Gestion de projet informatique
@@ -404,4 +406,109 @@ Break Even
 - Qualification
 - Ascquisition savoir-faire
 
+## Chapitre 4.2 L'approche classique du projet
+
+### Modèle en Cascade
+
+Le modèle en cascade, également connu sous le nom de modèle séquentiel, est une approche de gestion de projet où chaque phase doit être complétée avant de passer à la suivante. Ce modèle se compose généralement des étapes suivantes :
+
+1. **Analyse des besoins** : Identification et documentation des exigences du projet.
+2. **Conception** : Élaboration de l'architecture et des spécifications techniques.
+3. **Développement** : Réalisation du produit selon les spécifications définies.
+4. **Tests** : Vérification et validation du produit pour s'assurer qu'il répond aux exigences.
+5. **Déploiement** : Mise en production du produit final.
+6. **Maintenance** : Suivi et correction des problèmes post-lancement.
+
+Cette approche est linéaire et rigide, ce qui peut être un inconvénient dans des environnements où les exigences changent fréquemment. Cependant, elle est efficace pour des projets avec des besoins bien définis et peu de changements prévisibles.
+
+### Cahier des charges
+
+Le cahier des charges est un document essentiel qui définit les attentes et les exigences d'un projet, similaire aux étapes du modèle en cascade. Il comprend :
+
+1. **Contexte et objectifs** : Identification des raisons et des buts du projet.
+2. **Périmètre du projet** : Définition des limites et des exclusions du projet.
+3. **Domaine métier** : Identification du secteur d'activité concerné.
+4. **Périmètre fonctionnel** : Description des fonctionnalités à réaliser.
+5. **Critère qualité** : Établissement des normes de qualité à respecter.
+6. **Condition opérationnelle** : Définition des conditions nécessaires pour le bon fonctionnement du projet.
+7. **Méthodologie** : Choix de l'approche de gestion de projet à adopter.
+8. **Planning** : Élaboration d'un calendrier des étapes du projet.
+9. **Responsabilités** : Attribution des rôles et des responsabilités au sein de l'équipe.
+
+## Chapitre 5.1 Méthodes Agiles
+
+### Agiles vs Classiques
+
+Les méthodes agiles et classiques diffèrent principalement dans leur approche de la gestion de projet. 
+
+Approche Classique : 
+- Définit à l'avance
+- Suit un processus linéaire
+- Moins flexible face aux changements
+- Erreurs non acceptées
+
+Approche Agile :
+- Adapte au fur et à mesure
+- Favorise la collaboration continue
+- Permet des ajustements fréquents en fonction des retours
+- Erreur acceptée, adapter et améliorer
+
+
+### Rôles
+
+Product Manager/Owner : Responsable de la vision et de la stratégie du produit, interlocuteur principal avec les parties prenantes.
+
+**Scrum Master** : Facilitateur de l'équipe, garant du respect des principes agiles.
+
+**Product Designer** : Responsable de l'expérience utilisateur et de l'interface.
+
+**Delivery Manager** : Responsable de la livraison du produit, garant de la qualité et des délais.
+
+### Méthodologie
+
+#### Backlog
+
+**User stories** : Description des fonctionnalités du point de vue de l'utilisateur, format simple et compréhensible.
+
+**Technical stories** : Description des tâches techniques nécessaires à la réalisation des user stories.
+
+**Epic et Feature** : Regroupement de user stories en fonction de leur importance et de leur complexité.
+
+**Story mapping** : Visualisation des user stories sur un axe horizontal pour suivre leur progression.
+
+**Gestion des bugs** : Identification et correction des problèmes rencontrés.
+
+### Réunions Essentielles
+
+**Sptrint planning** : Planification des tâches à réaliser lors du prochain sprint.
+
+**Daily stand-up** : Réunion quotidienne pour faire le point sur l'avancement des tâches.
+
+**Sprint review** : Présentation des fonctionnalités réalisées lors du sprint.
+
+**Sprint retrospective** : Analyse des points positifs et négatifs du sprint.
+
+## Chapitre 5.2 Des approches agiles remarquables
+
+### Organisation Kanban
+
+#### Tableau Kanban
+
+Le Kanban est une méthode de gestion visuelle qui permet de suivre l'avancement des tâches dans un projet. Elle repose sur l'utilisation d'un tableau Kanban, où les tâches sont représentées par des cartes. Ces cartes sont déplacées à travers différentes colonnes qui représentent les étapes du processus de travail, telles que "À faire", "En cours" et "Terminé".
+
+### Principes du Kanban
+
+1. **Visualisation du travail** : Le tableau Kanban permet de voir l'état d'avancement des tâches en un coup d'œil, facilitant ainsi la gestion et la priorisation.
+
+2. **Limitation du travail en cours (WIP)** : En limitant le nombre de tâches pouvant être en cours simultanément, le Kanban aide à réduire le multitâche et à améliorer la concentration sur les tâches en cours.
+
+3. **Flux de travail continu** : Le Kanban favorise un flux de travail fluide, permettant aux équipes de livrer des résultats de manière continue plutôt que par itérations fixes.
+
+4. **Amélioration continue** : Le Kanban encourage les équipes à analyser régulièrement leur processus et à apporter des ajustements pour améliorer l'efficacité et la qualité du travail.
+
+### Avantages du Kanban
+
+- Flexibilité : Le Kanban s'adapte facilement aux changements de priorités et aux nouvelles demandes.
+- Transparence : Tous les membres de l'équipe peuvent voir l'état des tâches, ce qui favorise la collaboration et la communication.
+- Réduction des délais : En optimisant le flux de travail, le Kanban permet de réduire le temps nécessaire pour compléter les tâches.
 
